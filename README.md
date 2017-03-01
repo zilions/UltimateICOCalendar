@@ -24,5 +24,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | |
 | March  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |
 | March | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
+| March  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | April/May | Tezos  | Blockchain with Better Governance | N/A | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |
 | Q2 | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |

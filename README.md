@@ -7,21 +7,25 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 ## Confirmed Dates
 
-| Start Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Other Community Link
+| Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | February 28 | Edgeless  | Casino with no house edge | Ethereum | [Link](https://edgeless.io/) | [Link](https://edgelessethcasino.signup.team/) | |
 | February 28 | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |
 | March 1  | WeTrust  | P2P Lending Circles | Ethereum | [Link](https://www.wetrust.io/) | [Link](https://www.wetrust.io/slack-invite) | |
+| March 1 | Legends Room  | Las Vegas Gentlemen's Club Membership | Ethereum | [Link](https://legendsroomlv.com/) | | |
 | March 16 | Qtum  | Ethereum smart contracts on UTXO blockchain | N/A | [Link](https://qtum.org) | [Link](https://qtumnexus.slack.com) | [Link](https://reddit.com/r/qtum) |
 | March 25  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |
-| March 27  | Taas | Tokenized Fund | Ethereum | [Link](http://taas.fund/) | | |
-| April 6  | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
+| March 27  | Taas | Tokenized Fund | Ethereum | [Link](http://taas.fund/) | [Link](https://taasfund.signup.team/)| |
+| March 28 | SuperDAO | Ethereum Dapp Incubator | Ethereum | [Link](http://www.superdao.io/) | | [Link](https://www.reddit.com/r/SuperDao/) |
+| March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
+| April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
+| May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |
 
 ## Unconfirmed Dates
 
 | Rough Start  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| March  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | |
+| March  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | [Link](https://www.reddit.com/user/GroupGnosis/)|
 | March  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |
 | March | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
 | March  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |

@@ -13,7 +13,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | February 28 | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |
 | March 1  | WeTrust  | P2P Lending Circles | Ethereum | [Link](https://www.wetrust.io/) | [Link](https://www.wetrust.io/slack-invite) | |
 | March 1 | Legends Room  | Las Vegas Gentlemen's Club Membership | Ethereum | [Link](https://legendsroomlv.com/) | | |
-| March 16 | Qtum  | Ethereum smart contracts on UTXO blockchain | N/A | [Link](https://qtum.org) | [Link](https://qtumnexus.slack.com) | [Link](https://reddit.com/r/qtum) |
+| March 16 | Qtum  | Ethereum smart contracts on UTXO blockchain | (New) | [Link](https://qtum.org) | [Link](https://qtumnexus.slack.com) | [Link](https://reddit.com/r/qtum) |
 | March 25  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |
 | March 27  | Taas | Tokenized Fund | Ethereum | [Link](http://taas.fund/) | [Link](https://taasfund.signup.team/)| |
 | March 28 | SuperDAO | Ethereum Dapp Incubator | Ethereum | [Link](http://www.superdao.io/) | | [Link](https://www.reddit.com/r/SuperDao/) |

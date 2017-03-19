@@ -19,6 +19,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March 29 | Lunyr  | Decentralized World Knowledge Base | Ethereum | [Link](https://lunyr.com/) | [Link](https://slack.lunyr.com/) | [Link](https://www.reddit.com/r/Lunyr/)|
 | March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
+| April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |
 | May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |
 
 ## Unconfirmed Dates

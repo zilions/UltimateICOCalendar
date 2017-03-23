@@ -11,11 +11,9 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| February 28 | Edgeless  | Casino with no house edge | Ethereum | [Link](https://edgeless.io/) | [Link](https://edgelessethcasino.signup.team/) | |
 | March 1  | WeTrust  | P2P Lending Circles | Ethereum | [Link](https://www.wetrust.io/) | [Link](https://www.wetrust.io/slack-invite) | |
 | March 1 | Legends Room  | Las Vegas Gentlemen's Club Membership | Ethereum | [Link](https://legendsroomlv.com/) | | |
 | March 12 | Joberr | Micro-Jobs Marketplace (Decentralized Fiverr)| Ethereum | [Link](http://www.joberr.co/) | | [Link](https://www.reddit.com/r/joberr/) |
-| March 16 | Qtum  | Ethereum smart contracts on UTXO blockchain | (New) | [Link](https://qtum.org) | [Link](https://qtumnexus.slack.com) | [Link](https://reddit.com/r/qtum) |
 | March 20  | Sikoba    | P2P IOUs | Etherem | [Link](http://sikoba.com) | [Link](https://sikoba-presale.herokuapp.com)||
 | March 20  | Ethereum Movie Venture    | Ethereum funded movie | Ethereum | [Link](http://ico.swisscoast.com/) |||
 | March 25  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |

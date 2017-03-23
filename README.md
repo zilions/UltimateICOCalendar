@@ -36,5 +36,5 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | April/May | Tezos  | Blockchain with Better Governance | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |
 | Q2 | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
-| May/June | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
+| Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
 | TBA | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |

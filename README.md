@@ -22,6 +22,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March 31 | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
 | March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
 | April 2  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |
+| April 3 | Aeternity | Hedging and Insurance | Ethereum | [Link](http://www.aeternity.com/) | [Link](Slack.aeternity.com ) | [Link](https://www.reddit.com/r/Aeternity/)
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
 | April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |
 | April 12  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |

@@ -26,6 +26,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
 | April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |
 | April 12  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |
+| April 15  | Ethbits  | Fiat to Cryptoccurency Exchange | Ethereum | [Link](https://www.ethbits.com/) | | [Link](https://www.reddit.com/r/Ethbits/) |
 | April 17 | BOScoin  | Platform for Trust Contracts | (New) | [Link](https://www.boscoin.io/) | [Link](https://slack-boscoin.herokuapp.com/) | [Link](https://www.reddit.com/r/boscoin/) |
 | May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |
 

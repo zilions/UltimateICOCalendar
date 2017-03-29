@@ -42,3 +42,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
 | TBA | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
+| May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link]( https://slack.starbase.co ) || 

@@ -34,10 +34,10 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 | Rough Start  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| March  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | [Link](https://www.reddit.com/user/GroupGnosis/)|
-| March  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | April/May | Tezos  | Blockchain with Better Governance | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |
-| Q2 | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
+| May | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
+| Q2  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | [Link](https://www.reddit.com/user/GroupGnosis/)|
+| Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
 | TBA | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |

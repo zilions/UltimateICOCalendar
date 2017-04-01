@@ -12,7 +12,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | March 1  | WeTrust  | P2P Lending Circles | Ethereum | [Link](https://www.wetrust.io/) | [Link](https://www.wetrust.io/slack-invite) | |
-| March 1 | Legends Room  | Las Vegas Gentlemen's Club Membership | Ethereum | [Link](https://legendsroomlv.com/) | | |
 | March 12 | Joberr | Micro-Jobs Marketplace (Decentralized Fiverr)| Ethereum | [Link](http://www.joberr.co/) | | [Link](https://www.reddit.com/r/joberr/) |
 | March 15  | Creativechain  | Multimedia marketplace for distributed intellectual property | (New) | [Link](https://www.creativechain.org) | | [Link](https://www.reddit.com/domain/creativechain.org/) |
 | March 20  | Sikoba    | P2P IOUs | Ethereum | [Link](http://sikoba.com) | [Link](https://sikoba-presale.herokuapp.com)||

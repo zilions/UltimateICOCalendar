@@ -20,11 +20,11 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March 27  | Taas | Tokenized Fund | Ethereum | [Link](http://taas.fund/) | [Link](https://taasfund.signup.team/)| |
 | March 28 | SuperDAO | Ethereum Dapp Incubator | Ethereum | [Link](http://www.superdao.io/) | | [Link](https://www.reddit.com/r/SuperDao/) |
 | March 29 | Lunyr  | Decentralized World Knowledge Base | Ethereum | [Link](https://lunyr.com/) | [Link](https://slack.lunyr.com/) | [Link](https://www.reddit.com/r/Lunyr/)|
-| March 31 | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
 | March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
 | April 2  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |
 | April 3 | Aeternity | New Scalable Blockchain for Lightning Smart Contracts with Dentralized Oracle | Ethereum | [Link](http://www.aeternity.com/) | [Link](http://slack.aeternity.com) | [Link](https://www.reddit.com/r/Aeternity/)
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
+| April 6 | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
 | April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |
 | April 12  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |
 | April 15  | Ethbits  | Fiat to Cryptoccurency Exchange | Ethereum | [Link](https://www.ethbits.com/) | | [Link](https://www.reddit.com/r/Ethbits/) |

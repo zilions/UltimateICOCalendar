@@ -22,6 +22,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
 | April 2  | Matchpool | Dating | Ethereum | [Link](http://matchpool.co/) | [Link](https://matchpool.signup.team/) | |
 | April 3 | Aeternity | New Scalable Blockchain for Lightning Smart Contracts with Dentralized Oracle | Ethereum | [Link](http://www.aeternity.com/) | [Link](http://slack.aeternity.com) | [Link](https://www.reddit.com/r/Aeternity/)
+| April 3 | MetaGold | Indie Games using Blockchain | Ethereum | [Link](http://metagold.io/) | [Link](http://metagold.io/slack/) | [Link](https://www.reddit.com/r/MetaGoldDev/)
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
 | April 6 | Cosmos  | Connect Blockchains | N/A | [Link](https://cosmos.network) | [Link](http://slack.cosmos.network/) | |
 | April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |

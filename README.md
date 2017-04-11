@@ -23,8 +23,8 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | April 3 | MetaGold | Indie Games using Blockchain | Ethereum | [Link](http://metagold.io/) | [Link](http://metagold.io/slack/) | [Link](https://www.reddit.com/r/MetaGoldDev/)
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
 | April 10 | Blockchain Capital  | Digital Liquid Venture Fund | Ethereum | [Link](https://blockchaincapital.tokenhub.com/) | | |
-| April 12  | iEX  | Distributed Computing | Ethereum | [Link](http://iex.ec/) | | |
 | April 15  | Ethbits  | Fiat to Cryptoccurency Exchange | Ethereum | [Link](https://www.ethbits.com/) | | [Link](https://www.reddit.com/r/Ethbits/) |
+| April 19  | iExec  | Off chain computation for Dapps | Ethereum | [Link](http://iex.ec/) | [Link](http://52.44.51.109:3000/) | |
 | April 24  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | [Link](https://www.reddit.com/user/GroupGnosis/)|
 | April 25  | MobileGo  | Gaming Platform | Ethereum / Waves | [Link](https://mobilego.io/) | [Link](https://gamecredits.com/slack.html) | |
 | May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |

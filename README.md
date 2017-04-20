@@ -11,6 +11,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| February 26 | PeerPlays | On-chain Gaming and Tournaments | Graphene-based | [Link](http://www.peerplays.com) | [Link](https://peerplays.chat) | [Link](https://www.reddit.com/r/Peerplays/) |
 | March 15  | Creativechain  | Multimedia marketplace for distributed intellectual property | (New) | [Link](https://www.creativechain.org) | | [Link](https://www.reddit.com/domain/creativechain.org/) |
 | March 20  | Sikoba    | P2P IOUs | Ethereum | [Link](http://sikoba.com) | [Link](https://sikoba-presale.herokuapp.com)||
 | March 27  | Taas | Tokenized Fund | Ethereum | [Link](http://taas.fund/) | [Link](https://taasfund.signup.team/)| |

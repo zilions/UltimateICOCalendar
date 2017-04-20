@@ -24,6 +24,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | April 25  | MobileGo  | Gaming Platform | Ethereum / Waves | [Link](https://mobilego.io/) | [Link](https://gamecredits.com/slack.html) | |
 | May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |
 | May 10 | BOScoin  | Platform for Trust Contracts | (New) | [Link](https://www.boscoin.io/) | [Link](https://slack-boscoin.herokuapp.com/) | [Link](https://www.reddit.com/r/boscoin/) |
+| May 17 | Aragon Network  | Decentralized Jurisdiction | Ethereum | [Link](https://aragon.one) | [Link](https://aragon.chat)  |
 
 ## Unconfirmed Dates
 

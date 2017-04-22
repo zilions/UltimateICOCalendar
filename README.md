@@ -25,6 +25,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | May 1 | Adel  | DAO for Investing | Ethereum | [Link](https://www.adelphoi.io/) | |  [Link](https://www.reddit.com/r/Adel/) |
 | May 10 | BOScoin  | Platform for Trust Contracts | (New) | [Link](https://www.boscoin.io/) | [Link](https://slack-boscoin.herokuapp.com/) | [Link](https://www.reddit.com/r/boscoin/) |
 | May 17 | Aragon Network  | Decentralized Jurisdiction | Ethereum | [Link](https://aragon.one) | [Link](https://aragon.chat)  |
+| May 19 | Storj | Decentralized Cloud Storage | Ethereum | [Link](https://storj.io) | [Link](https://community.storj.io) | [Link](reddit.com/r/storj)
 
 ## Unconfirmed Dates
 
@@ -36,4 +37,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
 | TBA | Mainstreet  | Tokenized fund | Ethereum | [Link](http://mainstreet.ky/) | [Link](http://slack.intellisys.ai/) | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
-| May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | | 
+| May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | |

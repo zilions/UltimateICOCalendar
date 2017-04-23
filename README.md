@@ -20,6 +20,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | March 31 | Centz | Blockchain-based Gift Cards | Ethereum | [Link](https://ico.centz.net/) | | |
 | April 3 | MetaGold | Indie Games using Blockchain | Ethereum | [Link](http://metagold.io/) | [Link](http://metagold.io/slack/) | [Link](https://www.reddit.com/r/MetaGoldDev/)
 | April 6 | HumanIQ  | Banking for Developing World | Ethereum | [Link](https://humaniq.co/) | [Link](http://slack.humaniq.co/) | |
+| April 7 | LeviarCoin | DRM over BlockChain | (New) | [Link](https://leviarcoin.org/) | |  |
 | April 15  | Ethbits  | Fiat to Cryptoccurency Exchange | Ethereum | [Link](https://www.ethbits.com/) | | [Link](https://www.reddit.com/r/Ethbits/) |
 | April 24  | Gnosis  | Prediction Market | Ethereum | [Link](https://gnosis.pm/) | [Link](https://slack.gnosis.pm/) | [Link](https://www.reddit.com/user/GroupGnosis/)|
 | April 25  | MobileGo  | Gaming Platform | Ethereum / Waves | [Link](https://mobilego.io/) | [Link](https://gamecredits.com/slack.html) | |

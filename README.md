@@ -25,7 +25,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | May 10 | BOScoin  | Platform for Trust Contracts | (New) | [Link](https://www.boscoin.io/) | [Link](https://slack-boscoin.herokuapp.com/) | [Link](https://www.reddit.com/r/boscoin/) |
 | May 17 | Aragon Network  | Decentralized Jurisdiction | Ethereum | [Link](https://aragon.one) | [Link](https://aragon.chat)  |
 | May 19 | Storj | Decentralized Cloud Storage | Ethereum | [Link](https://storj.io) | [Link](https://community.storj.io) | [Link](reddit.com/r/storj)
-| May 22 | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |
 | May 30 | Bancor | Instant Liquidity for Any Cryptocurrency | Ethereum | [Link](https://bancor.network/) | [Link](https://join.slack.com/bancornetwork/shared_invite/MTc2NTk4MTE3NzE1LTE0OTM1NTMzNjYtNWY1Yjg5NDg5Ng/) | [Link](https://www.reddit.com/r/Bancor/)
 | May 31 | BAT | Basic Attention Token: Blockchain-based digital advertising | Ethereum | [Link](https://basicattentiontoken.org/) | [Link](http://slack.basicattentiontoken.org/) | [Link](https://www.reddit.com/r/BATProject/)
 
@@ -34,6 +33,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Rough Start  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | May | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
+| June | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |
 | Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |

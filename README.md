@@ -1,4 +1,7 @@
 # Ultimate ICO Calendar
+
+### Founders, check out Tokensale Best Practices here: www.scanate.co/token
+
 There are a lot of ICO calendars with incomplete information. So, why not crowdsource it and allow people (including founders) to contribute?
 
 The ICOs listed here are either upcoming or currently ongoing.

@@ -33,6 +33,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | May 31 | BAT | Basic Attention Token: Blockchain-based digital advertising | Ethereum | [Link](https://basicattentiontoken.org/) | [Link](http://slack.basicattentiontoken.org/) | [Link](https://www.reddit.com/r/BATProject/) | [Link](https://twitter.com/brave?lang=en) |
 | June 1 | DRP | Democratizing Venture Capitalism | Ethereum | [Link](https://www.dcorp.it/) |  | [Link](https://www.reddit.com/r/dcorp/)|
 | June 7 | Cofound.it | Decentralized VC platform | Ethereum | [Link](https://cofound.it/) | [Link](http://cofoundit.herokuapp.com/) | [Link](https://www.reddit.com/r/cofoundit/)|
+| June 17 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) | [Link](https://twitter.com/ethstatus) |
 
 
 ## Unconfirmed Dates
@@ -42,6 +43,5 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | May | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
 | June | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |[Link](https://twitter.com/tez0s?lang=en)|
 | Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
-| Q2/Q3 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) | [Link](https://twitter.com/ethstatus) |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
 | May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | |

@@ -34,6 +34,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | June 7 | Cofound.it | Decentralized VC platform | Ethereum | [Link](https://cofound.it/) | [Link](http://cofoundit.herokuapp.com/) | [Link](https://www.reddit.com/r/cofoundit/)|
 | June 12 | Bancor | Instant Liquidity for Any Cryptocurrency | Ethereum | [Link](https://bancor.network/) | [Link](https://join.slack.com/bancornetwork/shared_invite/MTc2NTk4MTE3NzE1LTE0OTM1NTMzNjYtNWY1Yjg5NDg5Ng/) | [Link](https://www.reddit.com/r/Bancor/) | [Link](https://twitter.com/BancorNetwork)
 | June 17 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) | [Link](https://twitter.com/ethstatus) |
+| June 21 | Civic | Identity Platform | Rootstock | [Link](https://tokensale.civic.com/) | | [Link](https://www.reddit.com/r/civicplatform/) | [Link](https://twitter.com/VinnyLingham) |
 | July 7 | Blocktix | Event hosting platform designed for the real world | Ethereum | [Link](https://blocktix.io/) | [Link](https://slack.blocktix.io/) | [Link](https://www.reddit.com/r/blocktix/) | [Link](https://twitter.com/blocktix) |
 
 ## Unconfirmed Dates

@@ -33,8 +33,9 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | June 1 | DRP | Democratizing Venture Capitalism | Ethereum | [Link](https://www.dcorp.it/) |  | [Link](https://www.reddit.com/r/dcorp/)|
 | June 7 | Cofound.it | Decentralized VC platform | Ethereum | [Link](https://cofound.it/) | [Link](http://cofoundit.herokuapp.com/) | [Link](https://www.reddit.com/r/cofoundit/)|
 | June 12 | Bancor | Instant Liquidity for Any Cryptocurrency | Ethereum | [Link](https://bancor.network/) | [Link](https://join.slack.com/bancornetwork/shared_invite/MTc2NTk4MTE3NzE1LTE0OTM1NTMzNjYtNWY1Yjg5NDg5Ng/) | [Link](https://www.reddit.com/r/Bancor/) | [Link](https://twitter.com/BancorNetwork)
-| June 17 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) | [Link](https://twitter.com/ethstatus) |
+| June 20 | Status | A Mobile Ethereum OS | Ethereum | [Link](https://status.im/) | [Link](http://slack.status.im/) | [Link](https://www.reddit.com/r/statusim/) | [Link](https://twitter.com/ethstatus) |
 | June 21 | Civic | Identity Platform | Rootstock | [Link](https://tokensale.civic.com/) | | [Link](https://www.reddit.com/r/civicplatform/) | [Link](https://twitter.com/VinnyLingham) |
+| July 1 | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |[Link](https://twitter.com/tez0s?lang=en)|
 | July 7 | Blocktix | Event hosting platform designed for the real world | Ethereum | [Link](https://blocktix.io/) | [Link](https://slack.blocktix.io/) | [Link](https://www.reddit.com/r/blocktix/) | [Link](https://twitter.com/blocktix) |
 
 ## Unconfirmed Dates
@@ -42,7 +43,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Rough Start  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | May | OmiseGO  | E-wallet + Merchant Integrations, bank the unbanked | Ethereum | [Link](https://omg.omise.co/) | | |
-| June | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |[Link](https://twitter.com/tez0s?lang=en)|
 | Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
 | May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | |

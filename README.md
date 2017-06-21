@@ -48,3 +48,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
 | May-July | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | |
+| August | Po.et | Intellectual Property on the Blockchain | Bitcoin | [Link](https://po.et/) | [Link](https://poet-slack.herokuapp.com/) | |[Link](https://twitter.com/_poetproject)

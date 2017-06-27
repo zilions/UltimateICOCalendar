@@ -12,7 +12,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 ## Confirmed Dates
 
-| Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter |
+| Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | February 26 | PeerPlays | On-chain Gaming and Tournaments | Graphene-based | [Link](http://www.peerplays.com) | [Link](https://peerplays.chat) | [Link](https://www.reddit.com/r/Peerplays/) | [Link](https://twitter.com/peerplays) |
 | March 15  | Creativechain  | Multimedia marketplace for distributed intellectual property | (New) | [Link](https://www.creativechain.org) | | [Link](https://www.reddit.com/domain/creativechain.org/) |  |
@@ -40,6 +40,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | July 1 | Starbase | Crowdfunding & Sourcing | Ethereum for STAR token, Waves, Cosmos, Bitcoin | [Link](https://starbase.co) | [Link](https://slack.starbase.co ) | |
 | July 1 | Tezos  | A New Digital Commonwealth | (New) | [Link](https://tezos.com/) | [Link](http://slack.tezos.com/) | |[Link](https://twitter.com/tez0s?lang=en)|
 | July 7 | Blocktix | Event hosting platform designed for the real world | Ethereum | [Link](https://blocktix.io/) | [Link](https://slack.blocktix.io/) | [Link](https://www.reddit.com/r/blocktix/) | [Link](https://twitter.com/blocktix) |
+| July 19 | Harbour DAO |Harness the wisdom of the crowd to manage token assets on the Ethereum blockchain | Ethereum | [Link](https://harbour.tokenate.io/) | [Link](https://harbourdao.herokuapp.com/) | [Link](https://www.reddit.com/r/HarbourDao/) | [Link](https://twitter.com/HarbourDao) |
 | July 19 | Aventus | Event ticketing on the blockchain | Ethereum | [Link](https://aventus.io/) | [Link](https://slack.aventus.io/) | [Link](https://www.reddit.com/r/aventus/) | [Link](https://twitter.com/AventusSystems) |
 
 ## Unconfirmed Dates

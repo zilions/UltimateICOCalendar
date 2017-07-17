@@ -30,6 +30,8 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | August 8 | Decentraland | A virtual world that runs on open standards | Ethereum | [Link](https://decentraland.org/) |[Link](https://slack.decentraland.org/)| [Link](https://www.reddit.com/r/decentraland/) | [Link](https://twitter.com/decentraland) |
 | August 14 | Spectiv | VR Streaming Platform & Attention Markets | Ethereum | [Link](https://spectivvr.com/) | [Link](https://slackpass.io/spectivvr) | | [Link](https://www.twitter.com/spectivvr) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
+| August 1 | Impendit | (Presale) The First Blockchain Solution for the Dining Industry | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
+| September 1 | Impendit | The First Blockchain Solution for the Dining Industry | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 
 ## Unconfirmed Dates
 

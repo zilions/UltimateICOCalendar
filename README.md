@@ -30,6 +30,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | August 8 | Intuition Fabric | Democratized Deep Learning Artificial Intelligence | Ethereum | [Link](http://intuitionfabric.com/) || [Link](https://www.reddit.com/r/IntuitionFabric/) | [Link](https://twitter.com/IntuitMachine) 
 | August 8 | Decentraland | A virtual world that runs on open standards | Ethereum | [Link](https://decentraland.org/) |[Link](https://slack.decentraland.org/)| [Link](https://www.reddit.com/r/decentraland/) | [Link](https://twitter.com/decentraland) |
 | August 14 | Spectiv | VR Streaming Platform & Attention Markets | Ethereum | [Link](https://spectivvr.com/) | [Link](https://slackpass.io/spectivvr) | | [Link](https://www.twitter.com/spectivvr) |
+| August 15 | BitDice | Participate in the transformation of a well established casino.  | Ethereum | [Link](https://ico.bitdice.me/) | [Link](http://slack.bitdice.me/) | [Link](https://www.reddit.com/r/BitDiceCasino/) | [Link](https://twitter.com/BitDice) |
 | September 1 | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
 

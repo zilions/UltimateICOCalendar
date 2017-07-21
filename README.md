@@ -29,6 +29,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | July 23 | investFeed | The world's first next-gen cryptocurrency social network| Ethereum | [Link](https://tokensale.investfeed.com/) | [Link](https://join.slack.com/t/investfeed/shared_invite/MjEzMzg1NTc0MTYxLTE1MDAzMTkxOTYtNGE0MzFhOTI5Yg) | [Link](https://www.reddit.com/r/investFeedOfficial/) | [Link](https://twitter.com/investfeed) |
 | July 27 | Tierion | A universal platform for verifiable data | Ethereum | [Link](https://goo.gl/C66Yzk) |  | [Link](https://www.reddit.com/r/tierion) | [Link](https://twitter.com/tierion) |
 | August 1 | Impendit | (Presale) The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
+| August 8 | Po.et | Intellectual Property on the Blockchain | Bitcoin | [Link](https://po.et/) | [Link](https://poet-slack.herokuapp.com/) | |[Link](https://twitter.com/_poetproject) |
 | August 8 | Intuition Fabric | Democratized Deep Learning Artificial Intelligence | Ethereum | [Link](http://intuitionfabric.com/) || [Link](https://www.reddit.com/r/IntuitionFabric/) | [Link](https://twitter.com/IntuitMachine)
 | August 8 | Decentraland | A virtual world that runs on open standards | Ethereum | [Link](https://decentraland.org/) |[Link](https://slack.decentraland.org/)| [Link](https://www.reddit.com/r/decentraland/) | [Link](https://twitter.com/decentraland) |
 | August 10 | Qvolta | Sell and buy crypto assets around the world for local payment methods. | Ethereum | [Link](http://qvolta.com) | | [Link](https://www.reddit.com/user/Qvolta/?ref=search_subreddits) | [Link](https://twitter.com/Qvolta_platform) |
@@ -44,5 +45,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Q2  | CodeTract  | Gold token, USD token, Token Auction and Receive salary in tokens | Ethereum | [Link](https://launch.codetract.io/) | | |
 | Mid-July | REX  | Global Real Estate Listings & Transactions | Ethereum | [Link](http://rexmls.com/) | [Link]( https://rexmls.herokuapp.com/) | |
-| August | Po.et | Intellectual Property on the Blockchain | Bitcoin | [Link](https://po.et/) | [Link](https://poet-slack.herokuapp.com/) | |[Link](https://twitter.com/_poetproject)
 | August | Chronologic | Token Based on Proof-of-Time | Ethereum | [Link](https://chronologic.network/) | [Link](https://join.slack.com/t/chronologicnetwork/shared_invite/MjA4NDg5Mzk2ODIzLTE0OTkxNzMzMTAtOTdiYWJmZTQyNw) | |[Link](https://twitter.com/)
